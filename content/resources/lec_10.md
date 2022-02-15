@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on transport of particles, particle diffusion, instantaneous
   point source of particle, and settling.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-061-transport-processes-in-the-environment-fall-2008/d6b135914ef6d79b1c4db0dc131fc2a5_lec_10.pdf
+file: /media/courses/1-061-transport-processes-in-the-environment-fall-2008/d6b135914ef6d79b1c4db0dc131fc2a5_lec_10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 10. Transport of particles
 uid: d6b13591-4ef6-d79b-1c4d-b0dc131fc2a5

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Solutions to example problems on diffusion, advection, and dispersion '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-061-transport-processes-in-the-environment-fall-2008/f5c2d10041d217985f29b16f42a7dd5f_solutions8.pdf
+file: /media/courses/1-061-transport-processes-in-the-environment-fall-2008/f5c2d10041d217985f29b16f42a7dd5f_solutions8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Solutions 8
 uid: f5c2d100-41d2-1798-5f29-b16f42a7dd5f

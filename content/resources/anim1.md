@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: Image accompanying a problem set on transport processes in the environment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-061-transport-processes-in-the-environment-fall-2008/60cf7946138801978eaf9f0f1cdb6aab_anim1.jpg
+file: /media/courses/1-061-transport-processes-in-the-environment-fall-2008/60cf7946138801978eaf9f0f1cdb6aab_anim1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: anim1
 uid: 60cf7946-1388-0197-8eaf-9f0f1cdb6aab

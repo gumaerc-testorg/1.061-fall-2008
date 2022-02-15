@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Animation accompanying a problem set on transport processes in the environment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-061-transport-processes-in-the-environment-fall-2008/00ec0b8669e1e335db9e2700f123b505_ch5slug.avi
+file: /media/courses/1-061-transport-processes-in-the-environment-fall-2008/00ec0b8669e1e335db9e2700f123b505_ch5slug.avi
 file_type: video/x-msvideo
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Other
 title: ch5slug
 uid: 00ec0b86-69e1-e335-db9e-2700f123b505

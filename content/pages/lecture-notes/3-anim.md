@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: f5eb15ee-ec29-db1a-0157-e22a35620c38
 title: '3. Diffusion of an Instantaneous Point Source: Animations'
 uid: aece8f0e-bc4b-c5db-6e2a-d3c745bb77cb
