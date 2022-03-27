@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6f09330d-1e04-fb76-8f0f-b11ec88d088b
 resourcetype: Document
 title: Dissolution of Gypsum and the Laminar Sub-Layer
 uid: f4ef961a-cd41-38c6-995d-58fb284c1464

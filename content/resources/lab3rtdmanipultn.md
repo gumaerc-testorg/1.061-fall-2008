@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6f09330d-1e04-fb76-8f0f-b11ec88d088b
 resourcetype: Document
 title: 'Residence Time Distribution and System Circulation '
 uid: 72c49b62-4f18-bc60-cff9-9b8c3e2abf56

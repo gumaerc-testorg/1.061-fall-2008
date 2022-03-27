@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f5eb15ee-ec29-db1a-0157-e22a35620c38
 resourcetype: Document
 title: Problems 9
 uid: a4d910c9-fab9-922a-1768-e611c4bdd50d

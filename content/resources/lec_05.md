@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f5eb15ee-ec29-db1a-0157-e22a35620c38
 resourcetype: Document
 title: 5. Advection and diffusion of an instantaneous release
 uid: c96f9a75-5762-38ac-2c4e-0e73b84e8072

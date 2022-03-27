@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f5eb15ee-ec29-db1a-0157-e22a35620c38
 resourcetype: Image
 title: Sol7Im5
 uid: 7cafc961-f9b2-76e8-635c-e5b0e972ad34

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f5eb15ee-ec29-db1a-0157-e22a35620c38
 resourcetype: Document
 title: 4. Boundary conditions
 uid: d5bf987b-8305-fda9-98d9-91b6e55de5c6

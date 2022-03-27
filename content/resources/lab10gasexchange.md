@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6f09330d-1e04-fb76-8f0f-b11ec88d088b
 resourcetype: Document
 title: Atmosphere-Water Exchange
 uid: c503af18-d222-3d0b-12fe-6e9954ceb93c

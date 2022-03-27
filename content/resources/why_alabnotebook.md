@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6f09330d-1e04-fb76-8f0f-b11ec88d088b
 resourcetype: Document
 title: Why a Lab Notebook?
 uid: 08499198-60c1-c133-4af1-8edf289c921b
