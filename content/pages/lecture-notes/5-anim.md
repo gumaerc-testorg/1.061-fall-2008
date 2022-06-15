@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -17,7 +18,7 @@ Directions: Click on the images to begin the animation.
 Temporal Records of Concentration as a Diffusing Cloud Passes By
 ----------------------------------------------------------------
 
-[![Advection and Diffusion of an Instantaneous Point Source animation.](/courses/civil-and-environmental-engineering/1-061-transport-processes-in-the-environment-fall-2008/lecture-notes/movie_5.jpg)]({{< baseurl >}}/resources/anim5)
+{{< resource uuid="52939f13-c2d3-d706-ee54-f12ea68c4a60" href_uuid="00c8ee0e-1ef0-8393-0288-2cdb65321804" >}}
 
 Advection and Diffusion of an Instantaneous Point Source
 

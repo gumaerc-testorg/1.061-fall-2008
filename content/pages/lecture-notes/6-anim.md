@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -17,7 +18,7 @@ Directions: Click on the images to begin the animation.
 Continuous Release into a Uniform Flow
 --------------------------------------
 
-[![Continuous Release into a Uniform Flow.](/courses/civil-and-environmental-engineering/1-061-transport-processes-in-the-environment-fall-2008/lecture-notes/movie_6.jpg)]({{< baseurl >}}/resources/anim6)
+{{< resource uuid="2b762462-196a-a227-8c88-d36c8892de3f" href_uuid="6420ab7b-b12f-3aef-ac79-8bc923f177d3" >}}
 
 Steady 2-D and 3-D solutions
 
