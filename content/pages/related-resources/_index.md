@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides links to related resources on fluid transport.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: e2199796-5350-239d-08cb-d944230fb374
 ---
