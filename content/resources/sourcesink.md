@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: SourceSink
 uid: 89e8105f-b481-d7e2-4409-3f0d1ca40df7
 ---
 Image accompanying a problem set on transport processes in the environment. 
-

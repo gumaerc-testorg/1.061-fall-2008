@@ -5,6 +5,7 @@ file: /courses/1-061-transport-processes-in-the-environment-fall-2008/177bdc19b9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problems 4
 uid: 177bdc19-b945-4dba-9a33-0a2633b73afe
 ---
 Example problems on boundary conditions.
-

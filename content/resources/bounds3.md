@@ -5,6 +5,7 @@ file: /courses/1-061-transport-processes-in-the-environment-fall-2008/4ff9383195
 file_type: video/x-msvideo
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: BOUNDS3
 uid: 4ff93831-95b0-62c6-c76c-e0f2aa0f293e
 ---
 Animation accompanying a problem set on transport processes in the environment.
-

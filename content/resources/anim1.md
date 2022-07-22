@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: anim1
 uid: 60cf7946-1388-0197-8eaf-9f0f1cdb6aab
 ---
 Image accompanying a problem set on transport processes in the environment.
-

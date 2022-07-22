@@ -6,6 +6,7 @@ file: /courses/1-061-transport-processes-in-the-environment-fall-2008/5536a0bf7f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2. Conservation of mass
 uid: 5536a0bf-7f3b-d0b2-1fde-2169b93a4b5a
 ---
 Lecture notes on the law of conservation of mass, integral and differential forms, incompressible flows, and the material derivative.
-

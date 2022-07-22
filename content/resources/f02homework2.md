@@ -5,6 +5,7 @@ file: /courses/1-061-transport-processes-in-the-environment-fall-2008/8b9754ec4e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Homework 2
 uid: 8b9754ec-4e9d-243f-4e22-83d100a44065
 ---
 Problem set on transport processes in the environment.
-

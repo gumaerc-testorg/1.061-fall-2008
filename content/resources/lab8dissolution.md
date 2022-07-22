@@ -6,6 +6,7 @@ file: /courses/1-061-transport-processes-in-the-environment-fall-2008/f4ef961acd
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Dissolution of Gypsum and the Laminar Sub-Layer
 uid: f4ef961a-cd41-38c6-995d-58fb284c1464
 ---
 Lab assignment on two different methods for estimating the laminar sub-layer thickness in a laboratory flume.
-

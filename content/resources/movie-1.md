@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 1. Conceptual Model of Diffusion
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Random Walk Animation
 uid: e93ef361-13d8-2b5f-4533-1eaae6fe7443
 ---
 Image accompanying an animation showing the motion of 500 particles in a one-dimensional random walk with step size X = 1 in time t = 1.
-

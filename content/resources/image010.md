@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: IMAGE010
 uid: 222c0298-0107-a9bf-abf6-ff0462a2e1ac
 ---
 Image accompanying a problem set on transport processes in the environment.
-

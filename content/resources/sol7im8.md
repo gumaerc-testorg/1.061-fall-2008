@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Sol7Im8
 uid: 37f0e2c3-925c-baef-94e3-99318f7d2676
 ---
 Image accompanying a problem set on transport processes in the environment.
-

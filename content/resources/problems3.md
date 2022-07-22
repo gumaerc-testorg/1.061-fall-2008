@@ -5,6 +5,7 @@ file: /courses/1-061-transport-processes-in-the-environment-fall-2008/ca8caa3a47
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problems 3
 uid: ca8caa3a-47f8-5bb3-7c7f-c5e439dcd17c
 ---
 Example problems on diffusion of an instantaneous point release.
-

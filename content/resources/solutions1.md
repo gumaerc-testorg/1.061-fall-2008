@@ -5,6 +5,7 @@ file: /courses/1-061-transport-processes-in-the-environment-fall-2008/90b4c39de7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Solutions 1
 uid: 90b4c39d-e759-1384-3768-4fd66b6a715a
 ---
 Solutions to example problems on the conceptual model of diffusion.
-

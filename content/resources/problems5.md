@@ -5,6 +5,7 @@ file: /courses/1-061-transport-processes-in-the-environment-fall-2008/9aff6319e3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problems 5
 uid: 9aff6319-e371-d69b-6b87-c16a22ea3791
 ---
 Example problems on advection and diffusion of an instantaneous release.
-

@@ -5,6 +5,7 @@ file: /courses/1-061-transport-processes-in-the-environment-fall-2008/00c8ee0e1e
 file_type: video/x-msvideo
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: anim5
 uid: 00c8ee0e-1ef0-8393-0288-2cdb65321804
 ---
 Animation accompanying a problem set on transport processes in the environment.
-

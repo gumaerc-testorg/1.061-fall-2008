@@ -5,6 +5,7 @@ file: /courses/1-061-transport-processes-in-the-environment-fall-2008/0849919860
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Why a Lab Notebook?
 uid: 08499198-60c1-c133-4af1-8edf289c921b
 ---
 Guidelines for keeping a a well-documented lab notebook.
-

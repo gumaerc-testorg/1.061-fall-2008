@@ -6,6 +6,7 @@ file: /courses/1-061-transport-processes-in-the-environment-fall-2008/e4eb88885c
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Transport in Porous Media
 uid: e4eb8888-5cef-7b31-56ca-253823b6c16d
 ---
 Lab assignment on using a tracer study to estimate the dispersion coefficient, pore velocity, and porosity of a sediment column.
-
