@@ -1,19 +1,17 @@
 ---
 content_type: page
 description: This section provides links to related resources on fluid transport.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: e2199796-5350-239d-08cb-d944230fb374
 ---
-
 Useful links for the fluid transport devotee.
 
-[E-Fluids](http://www.efluids.com/) — good educational site for fluid dynamics (with an impressive [gallery of flow images](http://www.efluids.com/efluids/pages/gallery.htm))
+[E-Fluids](http://www.efluids.com/) — good educational site for fluid dynamics (with an impressive [gallery of flow images](http://media.efluids.com/galleries/all?page=1))
 
 [Image Gallery](http://www.engineering.uiowa.edu/~cfd/gallery/lim-turb.html) — Laminar/Turbulent Flows — another impressive gallery of flow visualization images, this time from the University of Iowa
-
-[Socolofsky and Jirka text, 3rd edition](https://ceprofs.civil.tamu.edu/ssocolofsky/CVEN489/Book/Book.htm) — a draft version of a textbook on environmental fluid mechanics by Scott A. Socolofsky of Texas A&M University and Gerhard H. Jirska of the University of Karlsruhe
 
 [Cushman-Roisin course notes](http://engineering.dartmouth.edu/~d30345d/courses/engs43.html) — very helpful course notes from Dartmouth professor Benoit Cushman-Roisin's Environmental Transport and Fate class. Chapters 1, 2, 3, and 4 cover mass balance, diffusion, dispersion, and air-water exchange among other topics
 

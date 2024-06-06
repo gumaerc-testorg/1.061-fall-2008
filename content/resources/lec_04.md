@@ -5,6 +5,7 @@ description: Lecture notes on boundary conditions, the no-flux boundary conditio
   and three-dimensions, time-scale for achieving a uniform condition between boundaries,
   and the definition of mixing time.
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/d5bf987b8305fda998d991b6e55de5c6_lec_04.pdf
+file_size: 284259
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

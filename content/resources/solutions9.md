@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to example problems on reaction and interfacial exchange.
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/a9919615f48ba0df05d8164b942a36b2_solutions9.pdf
+file_size: 582245
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
