@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on transport processes in the environment.
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/8b9754ec4e9d243f4e2283d100a44065_f02homework2.pdf
+file_size: 165052
 file_type: application/pdf
 learning_resource_types:
 - Assignments
