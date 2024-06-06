@@ -2,6 +2,7 @@
 content_type: resource
 description: Image accompanying a problem set on transport processes in the environment.
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/2b762462196aa2278c88d36c8892de3f_movie_6.jpg
+file_size: 36412
 file_type: image/jpeg
 image_metadata:
   caption: ''

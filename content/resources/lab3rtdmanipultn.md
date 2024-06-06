@@ -3,6 +3,7 @@ content_type: resource
 description: Lab assignment on estimating detention time and nominal residence time
   in a model basin.
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/72c49b624f18bc60cff99b8c3e2abf56_lab3rtdmanipultn.pdf
+file_size: 151971
 file_type: application/pdf
 learning_resource_types:
 - Labs
