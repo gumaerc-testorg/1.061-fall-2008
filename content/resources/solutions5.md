@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to example problems on advection and diffusion of an instantaneous
   release.
-file: /courses/1-061-transport-processes-in-the-environment-fall-2008/89f98bedf561bf5c2dce25f8c2263304_solutions5.pdf
+file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/89f98bedf561bf5c2dce25f8c2263304_solutions5.pdf
 file_size: 304175
 file_type: application/pdf
 learning_resource_types:
