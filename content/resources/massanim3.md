@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Animation accompanying a problem set on transport processes in the environment.
-file: /courses/1-061-transport-processes-in-the-environment-fall-2008/44673ad4b0675c9507d9fb099ef33794_MassAnim3.AVI
+file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/44673ad4b0675c9507d9fb099ef33794_MassAnim3.AVI
 file_size: 1628672
 file_type: video/x-msvideo
 learning_resource_types:

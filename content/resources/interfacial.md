@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on reaction and interfacial exchange, reaction-advection-diffusion
   solutions, dissolving species, exchange across an air-water interface, and partitioning
   to a solid.
-file: /courses/1-061-transport-processes-in-the-environment-fall-2008/5533466a0381ec8788ffff66248ce091_interfacial.pdf
+file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/5533466a0381ec8788ffff66248ce091_interfacial.pdf
 file_size: 355420
 file_type: application/pdf
 learning_resource_types:
