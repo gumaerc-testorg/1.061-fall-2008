@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example problems on the conceptual model of diffusion.
-file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/53729779d36dc9ea4928cd7435d1c6ae_problems1.pdf
+file: /courses/1-061-transport-processes-in-the-environment-fall-2008/53729779d36dc9ea4928cd7435d1c6ae_problems1.pdf
 file_size: 185595
 file_type: application/pdf
 learning_resource_types:

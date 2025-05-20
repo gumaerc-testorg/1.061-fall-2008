@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example problems on velocity profiles and turbulence.
-file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/6362c1df287afe695f26418767579031_problems7.pdf
+file: /courses/1-061-transport-processes-in-the-environment-fall-2008/6362c1df287afe695f26418767579031_problems7.pdf
 file_size: 315708
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image accompanying a problem set on transport processes in the environment.
-file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/b5567c0c69b39829302f715b70bbe1eb_Sol7Im6.gif
+file: /courses/1-061-transport-processes-in-the-environment-fall-2008/b5567c0c69b39829302f715b70bbe1eb_Sol7Im6.gif
 file_size: 370
 file_type: image/gif
 image_metadata:
