@@ -2,7 +2,7 @@
 content_type: resource
 description: Image accompanying an animation showing the motion of 500 particles in
   a one-dimensional random walk with step size X = 1 in time t = 1.
-file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/e93ef36113d82b5f45331eaae6fe7443_movie.jpg
+file: /courses/1-061-transport-processes-in-the-environment-fall-2008/e93ef36113d82b5f45331eaae6fe7443_movie.jpg
 file_size: 18965
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the law of conservation of mass, integral and differential
   forms, incompressible flows, and the material derivative.
-file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/5536a0bf7f3bd0b21fde2169b93a4b5a_lec_02.pdf
+file: /courses/1-061-transport-processes-in-the-environment-fall-2008/5536a0bf7f3bd0b21fde2169b93a4b5a_lec_02.pdf
 file_size: 167591
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example problems on boundary conditions.
-file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/177bdc19b9454dba9a330a2633b73afe_problems4.pdf
+file: /courses/1-061-transport-processes-in-the-environment-fall-2008/177bdc19b9454dba9a330a2633b73afe_problems4.pdf
 file_size: 137518
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to example problems on conservation of mass.
-file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/e8e3dee446a73efe9684ab90b82fbf60_solutions2.pdf
+file: /courses/1-061-transport-processes-in-the-environment-fall-2008/e8e3dee446a73efe9684ab90b82fbf60_solutions2.pdf
 file_size: 362163
 file_type: application/pdf
 learning_resource_types:
