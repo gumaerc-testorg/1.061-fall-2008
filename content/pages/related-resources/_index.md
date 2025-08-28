@@ -9,7 +9,7 @@ uid: e2199796-5350-239d-08cb-d944230fb374
 ---
 Useful links for the fluid transport devotee.
 
-[E-Fluids](http://www.efluids.com/) — good educational site for fluid dynamics (with an impressive [gallery of flow images](http://media.efluids.com/galleries/all?page=1))
+[E-Fluids](http://www.efluids.com/) — good educational site for fluid dynamics
 
 [Image Gallery](http://www.engineering.uiowa.edu/~cfd/gallery/lim-turb.html) — Laminar/Turbulent Flows — another impressive gallery of flow visualization images, this time from the University of Iowa
 
