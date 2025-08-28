@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on transport processes in the environment.
-file: /courses/1-061-transport-processes-in-the-environment-fall-2008/34680a18f5fd53b3927a2bf88387c46c_f02homework3.pdf
+file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/34680a18f5fd53b3927a2bf88387c46c_f02homework3.pdf
 file_size: 139221
 file_type: application/pdf
 learning_resource_types:

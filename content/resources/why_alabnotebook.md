@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Guidelines for keeping a a well-documented lab notebook.
-file: /courses/1-061-transport-processes-in-the-environment-fall-2008/0849919860c1c1334af18edf289c921b_why_alabnotebook.pdf
+file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/0849919860c1c1334af18edf289c921b_why_alabnotebook.pdf
 file_size: 112212
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

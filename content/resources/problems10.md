@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example problems on transport of particles.
-file: /courses/1-061-transport-processes-in-the-environment-fall-2008/e4a96f7f9a7ccaa6d17c62c9505653d3_problems10.pdf
+file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/e4a96f7f9a7ccaa6d17c62c9505653d3_problems10.pdf
 file_size: 202006
 file_type: application/pdf
 learning_resource_types:
