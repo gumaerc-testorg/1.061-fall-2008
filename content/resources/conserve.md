@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the conceptual model of diffusion, diffusion from a
   point source, random walks, conservation of mass, and the material derivative.
-file: /courses/1-061-transport-processes-in-the-environment-fall-2008/4c33878674c33a168456ba9f2385cb69_conserve.pdf
+file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/4c33878674c33a168456ba9f2385cb69_conserve.pdf
 file_size: 361739
 file_type: application/pdf
 learning_resource_types:

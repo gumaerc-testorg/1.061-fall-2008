@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on continuous point sources, continuous release, dilution
   gauging, downstream evolution of a continuous plume in a channel, and break-through
   curves with a Gaussian plume.
-file: /courses/1-061-transport-processes-in-the-environment-fall-2008/746746eecca47dd3096f68220b44b272_lec_06.pdf
+file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/746746eecca47dd3096f68220b44b272_lec_06.pdf
 file_size: 273501
 file_type: application/pdf
 learning_resource_types:

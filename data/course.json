@@ -44,12 +44,12 @@
     "website": "1-061-transport-processes-in-the-environment-fall-2008"
   },
   "learning_resource_types": [
-    "Course Introduction",
     "Simulation Videos",
     "Problem Sets",
     "Lecture Notes"
   ],
   "site_uid": "f1906b05-9a6f-4b78-8f3b-994ff8b4509b",
   "site_short_id": "1.061-fall-2008",
+  "site_url_path": "courses/1-061-transport-processes-in-the-environment-fall-2008",
   "title": "Course Metadata"
 }

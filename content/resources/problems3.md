@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example problems on diffusion of an instantaneous point release.
-file: /courses/1-061-transport-processes-in-the-environment-fall-2008/ca8caa3a47f85bb37c7fc5e439dcd17c_problems3.pdf
+file: /ol-ocw-studio-app/courses/1-061-transport-processes-in-the-environment-fall-2008/ca8caa3a47f85bb37c7fc5e439dcd17c_problems3.pdf
 file_size: 116266
 file_type: application/pdf
 learning_resource_types:
